@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/etchyaml",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Etch and reshape yaml text streams with deterministic transforms.",
+  "bin": {
+    "etchyaml": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/etchyaml.git"
+  },
+  "homepage": "https://theworker02.github.io/etchyaml/",
+  "keywords": [
+    "etch",
+    "yaml",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
